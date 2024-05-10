@@ -51,13 +51,13 @@ Conoce a tu líder
 --------------------
 
 <table align="center">
-  <tr align="center">
-    <td>
-      <strong>Emiliano Spotti</strong>
+  <tr>
+    <td align="center">
+      <strong>Eduardo Spotti</strong>
       <p align="center">
         <br>
-        <a href="https://www.instagram.com/emilianospotti/">
-          <img src="https://avatars.githubusercontent.com/u/1083902?v=4" height="120" alt="espotti">  
+        <a href="https://www.instagram.com/github/">
+          <img src="https://avatars.githubusercontent.com/u/42503752?v=4" height="120" alt="espotti">
         </a>
       </p>
       <p align="center">
@@ -66,13 +66,12 @@ Conoce a tu líder
         <br><strong>Buenos Aires, Argentina</strong><br>
         <br>
         <a href="https://github.com/espotti">
-          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36" alt="GitHub Icon"/>
         </a>
         <a href="https://www.linkedin.com/in/eduardospotti/">
-          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn Icon"/>
         </a>
       </p>
     </td>
   </tr>
 </table>
-
