@@ -13,7 +13,7 @@ Buenos Aires alberga un dinámico ecosistema tecnológico, con universidades de 
 ### Eventos Pasados
 | Fecha | Título | Enlace de Registro |
 |------------|-------------|---------------------|
-| AAAA-MM-DD | Título del Evento | [Enlace al Resumen del Evento]() |
+|2024-05-10 | [GitHub Community en KCD Argentina](https://www.meetup.com/gittogether-buenos-aires/events/300872209/)| https://www.youtube.com/watch?v=EFn8VNIOgBc
 
 ## Cómo Participar
 
